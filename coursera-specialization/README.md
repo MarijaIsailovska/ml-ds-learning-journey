@@ -20,4 +20,4 @@
 - Modern AI application understanding
 
 ---
-*Week 1 Focus - July 23-29, 2024*
+*Week 1 Focus - July 23-29, 2025*
