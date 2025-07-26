@@ -6,7 +6,7 @@
 **Goal:** Master fundamental patterns before moving to advanced topics
 
 ## Progress Tracker
-- **Arrays & Hashing:** 5/15 problems ⏳
+- **Arrays & Hashing:** 7/15 problems ⏳
 - **Two Pointers:** Not started ⏸️
 - **Sliding Window:** Not started ⏸️
 
@@ -16,4 +16,4 @@
 - Document: All solutions with explanations
 
 ---
-*Started: July 23, 2024*
+*Started: July 23, 2025*
