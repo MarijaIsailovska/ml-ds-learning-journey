@@ -8,16 +8,16 @@
 
 ### 🏆 Key Achievements
 - **Algorithm Problems:** 7+ solved with optimal solutions
-- **Coursera Progress:** Module 1 (75% complete) - Python & Statistics 
+- **Coursera Progress:** Module 1 - Python & Statistics, Module 2 - Applied Machine Learning with Python
 - **Repository:** Professional development workflow established
-- **Learning Streak:** 6 consecutive days 
+- **Learning Streak:** 12 + consecutive days 
 
 ### 📈 Live Progress Tracker
 ```
 Week 1: Foundation Building                    ████████░░ 80%
 ├── Coursera Specialization                   ████████░░ 75%
-│   ├── Module 1: Python & Statistics        ████████░░ 75%
-│   ├── Module 2: Applied ML                  ░░░░░░░░░░  0%
+│   ├── Module 1: Python & Statistics        ██████████ 100%
+│   ├── Module 2: Applied ML                  ██░░░░░░░  25%
 │   ├── Module 3: Deep Learning               ░░░░░░░░░░  0%
 │   └── Module 4: AI Applications             ░░░░░░░░░░  0%
 └── Algorithm Practice                        ████████░░ 47%
