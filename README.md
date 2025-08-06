@@ -21,7 +21,7 @@ Week 1: Foundation Building                    ████████░░ 80
 │   ├── Module 3: Deep Learning               ░░░░░░░░░░  0%
 │   └── Module 4: AI Applications             ░░░░░░░░░░  0%
 └── Algorithm Practice                        ████████░░ 47%
-    ├── Arrays & Hashing                     ████████░░  7/15
+    ├── Arrays & Hashing                     █████████░  9/15
     ├── Two Pointers                          ░░░░░░░░░░  0/10
     └── Sliding Window                        ░░░░░░░░░░  0/8
 ```
