@@ -102,7 +102,7 @@ Target algorithms: Valid Palindrome, 3Sum, Container With Water, Longest Substri
 - **Multi-dataset Integration:** Combining and merging complex healthcare datasets
 
 ### **Algorithm Solutions Portfolio**
-- **7 LeetCode Problems:** Fully documented with complexity analysis, alternative approaches, and test cases
+- **9 LeetCode Problems:** Fully documented with complexity analysis, alternative approaches, and test cases
 - **Professional Code Quality:** Clean implementations with comprehensive commenting and testing
 
 ## 🌟 What Makes This Different
