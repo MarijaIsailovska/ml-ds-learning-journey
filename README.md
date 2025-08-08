@@ -72,7 +72,7 @@ ml-ds-learning-journey/
 
 ## 🎯 Algorithm Mastery Progress
 
-### ✅ **Arrays & Hashing (7/15)**
+### ✅ **Arrays & Hashing (9/15)**
 | Problem | Difficulty | Solution | Key Technique | Status |
 |---------|------------|----------|---------------|--------|
 | Contains Duplicate | Easy | [Solution](./algorithms/arrays-hashing/contains-duplicate.py) | Hash Set | ✅ |
